@@ -1,0 +1,5 @@
+print("I am a great stuident at my school")
+print(3865892)
+print("I like pizza \n")
+print("I like spourts and games", 4)
+print("My favriot game to play is roblox",end="And my favriot sport is baseball")
