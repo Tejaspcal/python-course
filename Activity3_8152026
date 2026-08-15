@@ -1,0 +1,16 @@
+text = str(input("Enter a string: "))
+
+revtext = text[::-1]
+text = revtext
+
+print("Reverse of Given String is:")
+print(text)
+
+a = 5700
+reva = str(a)[::-1]
+
+print(reva)
+
+x = 49310
+revx = str(x)[::-1]
+print(revx)
